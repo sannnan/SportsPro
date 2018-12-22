@@ -1,2 +1,0 @@
-# SportsPro
-OOAD Semester Project
